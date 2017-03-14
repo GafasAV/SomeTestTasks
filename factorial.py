@@ -8,5 +8,5 @@ if __name__ == "__main__":
 	
 	count = int(input("Input iteration count :"))
 	
-	result = fc.fact(count)
+	result = fact(count)
 	print(result)
