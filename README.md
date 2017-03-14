@@ -1,6 +1,6 @@
 # SomeTestTasks
 Some test tasks:
-[+]Palindrom check
-[+]Fibonacci numbers series
-[+]Factorial calculation
+[+]Palindrom check\n
+[+]Fibonacci numbers series\n
+[+]Factorial calculation\n
 [+]FizzBuzz tasks
