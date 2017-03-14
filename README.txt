@@ -1,4 +1,4 @@
-# SomeTestTasks
+
 Some test tasks:
 [+]Palindrom check
 [+]Fibonacci numbers series
