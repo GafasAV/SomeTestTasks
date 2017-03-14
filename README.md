@@ -1,2 +1,6 @@
 # SomeTestTasks
-test tasks !
+Some test tasks:
+[+]Palindrom check
+[+]Fibonacci numbers series
+[+]Factorial calculation
+[+]FizzBuzz tasks
