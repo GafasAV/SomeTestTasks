@@ -10,5 +10,5 @@ if __name__ == "__main__":
 	
 	str = str(input("Input string for checking :"))
 
-	result = pm.isPalindrom(str)
+	result = isPalindrom(str)
 	print(result)
