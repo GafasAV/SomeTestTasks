@@ -9,8 +9,7 @@ def fizzBuzz(n):
 	else:
 		return str(n)
 		
-	
-	
+
 if __name__ == "__main__":
 	
 	count = int(input("Input numbers count :"))
